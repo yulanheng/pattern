@@ -1,5 +1,7 @@
 package cn.ylh.pattern.observer;
-
+/**
+ *观察者模式
+ */
 public class ObserverTest {
 
 	public static void main(String[] args) {

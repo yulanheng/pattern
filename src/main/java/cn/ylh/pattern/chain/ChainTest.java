@@ -1,5 +1,7 @@
 package cn.ylh.pattern.chain;
-
+/**
+ * 责任链模式
+ */
 public class ChainTest {
 
 	public static void main(String[] args) {
