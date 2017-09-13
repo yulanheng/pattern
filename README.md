@@ -1,1 +1,1 @@
-![](https://github.com/yulanheng/pattern/tree/master/images/123.jpg)
+![](https://github.com/yulanheng/pattern/blob/master/images/123.jpg?raw=true)
